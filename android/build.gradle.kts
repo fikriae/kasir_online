@@ -1,3 +1,8 @@
+plugins {
+    // Cukup panggil ID plugin tanpa menyertakan versi 'version "4.5.0"'
+    id("com.google.gms.google-services") apply false
+}
+
 allprojects {
     repositories {
         google()

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972491653683",
+    "project_id": "kasir-a019e",
+    "storage_bucket": "kasir-a019e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972491653683:android:e63f0326e3c0745aedd946",
+        "android_client_info": {
+          "package_name": "com.example.kasir_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBPje2zyO0aRyEAXs2K4Typd2Xn9EwCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972491653683:android:7ce5008f3e00c027edd946",
+        "android_client_info": {
+          "package_name": "kasironline.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBPje2zyO0aRyEAXs2K4Typd2Xn9EwCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
